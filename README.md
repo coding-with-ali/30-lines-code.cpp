@@ -15,8 +15,8 @@ C++ sample code examples
 ## Want to contribute?
 
 * If you want to help us improve,Just Add the code to New Folder and Then do a Pull Request.
-* If you find a problem with a specific snippet, please [open an issue](https://github.com/hazratali-bit/30-lines-code.android/issues/new).
-* If you find a problem with the website, please [report it in the web repository](https://github.com/hazratali-bit/30-lines-code.android/issues/new).
+* If you find a problem with a specific snippet, please [open an issue](https://github.com/hazratali-bit/30-lines-code.cpp/issues/new).
+* If you find a problem with the website, please [report it in the web repository](https://github.com/hazratali-bit/30-lines-code.cpp/issues/new).
 
 ## Credits
 
